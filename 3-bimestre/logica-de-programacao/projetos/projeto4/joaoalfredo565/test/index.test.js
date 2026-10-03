@@ -15,7 +15,7 @@ const {
     total,
     statusMensagem,
     resumo
-} = require("../index")
+} = require("./index")
 
 
 test("Deve armazenar corretamente os dados do pedido", () => {
