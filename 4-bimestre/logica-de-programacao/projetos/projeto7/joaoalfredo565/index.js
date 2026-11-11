@@ -58,8 +58,7 @@ Produto mais caro: ${produtoMaisCaro}
 Produtos com estoque baixo: ${produtosComEstoqueBaixo}
 `
 
-console.log(resumo);
-console.log(resumo);
+console.log(resumo)
 
 module.exports = {
   catalogo,
